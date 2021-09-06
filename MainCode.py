@@ -99,7 +99,7 @@ def SneakIntoVent():
     
 def GoLeft():
     print('\n\n')
-    print('You go left and at the nd of the hallway, there is a ladder in front')
+    print('You go left and at the end of the hallway, there is a ladder in front')
     print('\nof you,a vent to the right and a hatch below you.')
     print('\n1.[Climb Ladder]\n2.[Open Hatch]\n3.[Sneak Into Vent]\n4.[Do Nothing]\m')
     ch=int(input('Enter: '))
